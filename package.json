@@ -14,9 +14,9 @@
   "documentationUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.speedtests/tree/main/README.md",
   "licensesUrl": "https://github.com/CodeSmile-0000011110110111/de.codesmile.speedtests/tree/main/LICENSE",
   "dependencies": {
-    "com.unity.test-framework": "1.4.1",
-	"com.unity.test-framework.performance": "3.0.3",
-	"com.unity.entities": "1.0.16"
+    "com.unity.test-framework": "1.4.2",
+    "com.unity.test-framework.performance": "3.0.3",
+    "com.unity.entities": "1.0.16"
   },
   "relatedPackages": {}
 }
